@@ -1,0 +1,6 @@
+{
+  "name": "Umbrafall: Shattered Dominion",
+  "description": "Динамичная 2D action-platformer roguelite игра с metroidvania элементами, глубокой боёвкой, процедурным замком, биомами и мета-прогрессией.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
